@@ -1,0 +1,12 @@
+how many peoples do you want to add?
+please choose persons interests.
+enter 1 for COMPUTER
+      2 for SCIENCE
+      3 for SPORTS
+      4 for GENERAL_INFORMATION
+      5 for POLITICS
+enter end to go to next person.
+person 1 :person 1 :person 1 :person 1 :person 2 :person 2 :person 3 :person 3 :person 4 :person 4 :person 5 :person 5 :person 5 :person 6 :person 6 :person 6 :person 7 :person 7 :person 7 :choose person's who have friendship.
+notice that friendship is bilateral.
+enter end when you have finished.
+enter first person's number: enter second person's number: enter first person's number: enter second person's number: enter first person's number: enter second person's number: enter first person's number: enter second person's number: enter first person's number: enter second person's number: enter first person's number: enter second person's number: enter first person's number: 
